@@ -1,0 +1,137 @@
+                                                /* nav bar */
+
+#navbar{
+  background-color: #112B3C;
+}
+
+.navbar{
+  padding:5% 10% 0 10%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item{
+  padding: 0px 5px;
+}
+
+                                              /* top container */
+
+.title-cont{
+  
+  padding:8% 12%;
+  background-color: #112B3C;
+  text-align: center;
+  color:aliceblue;
+}
+
+.musicboy{
+  width: 80%;
+  border-radius: 100%;
+  padding-left: 10%;
+  
+}
+
+.title-text{
+  padding: 10% 0 0 5%;
+
+}
+
+.music-quote{
+  font-family: 'Grape Nuts', cursive;
+  font-size: 3.7rem;
+}
+
+                                          /* middle-container */
+#middle-container{
+  text-align: center;
+  background-color: #325164;
+  color:#fff;
+  padding:8% 5%;
+  line-height: 1.2rem;
+
+}
+
+.carousel-item{
+  padding:5% 15%;
+  transition: transform 2s ease, opacity .5s ease-out;
+}
+
+.testimonial-img{
+  width:20%;
+  border-radius: 100%;
+}
+
+
+                                              /* bottom container */
+#bottom-container{
+  text-align: center;
+  padding: 10% 3% 10% 10%;
+  background-color: #112B3C;
+
+}
+
+.card{
+  background-color: #112B3C;
+}
+.header{
+  color:#fff;
+  font-weight: bolder;
+}
+
+
+                                            /* contact */
+
+.container{
+  padding:0 20% 0 20%;
+}
+
+ .form{
+   padding:5%;
+   text-align: center;
+   background-color: #827397;
+   color:azure;
+   
+ }
+                                              
+
+                                                  /* footer */
+
+.footer{
+  text-align: center;
+  background-color: #525E75;
+  color:#97a188;
+  font-family: 'Roboto Mono', monospace;
+  padding:5% 0 3% 0;
+}
+a{
+  text-decoration: none;
+  color:#000;
+  padding:10px 10px 20px 10px;
+  
+}
+a:hover{
+  color:aliceblue;
+}
+
+.copyright{
+  padding:10px 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: small;
+}
+
+.copyright:hover{
+  color:aliceblue;
+}
+
+/* @media (max-width:1028px){
+
+  .music-quote{
+      text-align: center;
+      font-size: 2rem;
+
+  }
+  .musicboy{
+      
+    padding-top: 20%;
+  }
+ } */
+    
