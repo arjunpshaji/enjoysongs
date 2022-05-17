@@ -13,6 +13,10 @@
   padding: 0px 5px;
 }
 
+.arj{
+  width:50px;
+}
+
                                               /* top container */
 
 .title-cont{
@@ -69,13 +73,15 @@
 
 }
 
-.card{
+/* .card{
   background-color: #112B3C;
 }
 .header{
   color:#fff;
   font-weight: bolder;
-}
+} */
+
+
 
 
                                             /* contact */
@@ -87,7 +93,7 @@
  .form{
    padding:5%;
    text-align: center;
-   background-color: #827397;
+   background-color: #325164;
    color:azure;
    
  }
@@ -97,8 +103,8 @@
 
 .footer{
   text-align: center;
-  background-color: #525E75;
-  color:#97a188;
+  background-color: #112B3C;
+  color:#a7a2a2;
   font-family: 'Roboto Mono', monospace;
   padding:5% 0 3% 0;
 }
@@ -114,24 +120,32 @@ a:hover{
 
 .copyright{
   padding:10px 10px;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Varela Round', sans-serif;
   font-size: small;
+  opacity: 75%;
 }
 
 .copyright:hover{
   color:aliceblue;
 }
 
-/* @media (max-width:1028px){
-
-  .music-quote{
-      text-align: center;
-      font-size: 2rem;
-
-  }
+.fb{
+  color:rgb(80, 69, 182)
+}
+.insta{
+  color:rgb(148, 49, 148)
+}
+.linkd{
+  color:rgb(53, 105, 202)
+}
+.twtr{
+  color:rgb(58, 158, 172);
+}
+/* 
+@media (max-width:1028px){
   .musicboy{
       
-    padding-top: 20%;
-  }
- } */
     
+  }
+ }
+     */
